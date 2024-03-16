@@ -1,5 +1,15 @@
 package main
 
+/*
+------------ Required Packages ------------
+
+github.com/jinzhu/gorm
+github.com/jinzhu/gorm/dialects/mysql
+github.com/gorilla/mux
+
+--------------------------------------------
+*/
+
 import (
 	"github.com/Redakyr/Golang/GO_API/pkg/routes/"
 	"github.com/gorilla/mux"
